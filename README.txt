@@ -1,5 +1,5 @@
-# Georgia Inst. of Tech.: Machine Learning
-# Assignment #1: Supervised Learning
+Georgia Inst. of Tech.: Machine Learning
+Assignment #1: Supervised Learning
 
 To run:
 1. Clone repos, install:
